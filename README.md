@@ -11,7 +11,6 @@ Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhayanidhiqa) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhayanidhiKB&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhayanidhiKB&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhayanidhiKB&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
