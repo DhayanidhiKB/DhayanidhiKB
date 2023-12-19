@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋,  I'am Dhayanidhi
 
+
+A passionate Software Testing Professional from Chennai, India.
+I have learned a lot from the open-source community. I love to share my experience and learning through blogs.
+
+Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
 <!--
 **DhayanidhiKB/DhayanidhiKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
