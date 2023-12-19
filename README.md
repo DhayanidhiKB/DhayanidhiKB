@@ -15,7 +15,7 @@ Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhayanidhiKB&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
