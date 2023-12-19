@@ -6,6 +6,8 @@ I have learned a lot from the open-source community. I love to share my experien
 
 Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
 
+- 📫 How to reach me: dayanidhipraveen44@gmail.com (primary) or praveendhaya98@gmail.com(secondary)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhayanidhiqa) 
