@@ -7,7 +7,7 @@ I have learned a lot from the open-source community. I love to create frameworks
 
 Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
 
-🌱 I’m currently Learning Appium for Mobile Automation
+🌱 I’m currently Learning Playwright for UI Automation
 
 - 📫 How to reach me: dayanidhipraveen44@gmail.com (primary) or praveendhaya98@gmail.com(secondary)
 
