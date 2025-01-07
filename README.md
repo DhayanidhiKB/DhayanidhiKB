@@ -1,13 +1,19 @@
 ### Hi there 👋,  I'am Dhayanidhi
 
-SELENIUM | RESTASSURED | Core Java | JENKINS | DOCKER | CUCUMBER | API AUTOMATION | POSTMAN | GIT | TESTNG
+DevOps Engineer | Docker 🐳 | Kubernetes ☸ | Linux 🐧 | Git & GitHub Jenkins | AWS | Terraform | Ansible
 
-A passionate Software Testing Professional from Chennai, India.
-I have learned a lot from the open-source community. I love to create frameworks for Web, API automation and contribute here in my Github.
+● DevOps Professional with 4+ years of an experience in DevOps tools and technologies and 1.5 years of Experience in Automation Testing
+● My Portfolio: https://github.com/DhayanidhiKB
 
-Skills: Selenium,Rest Assured, Docker, Jenkins, Git, Postman
-
-🌱 I’m currently Learning Appium for Mobile Automation
+Skills :
+① Amazon Web Service (AWS) : IAM, Elastic Compute Cloud, Simple Storage Service, Virtual Private Cloud, Amazon CloudFront, Amazon DynamoDB, Elastic Kubernetes Service
+② Jenkins : Automation tools
+③ Linux : Operating System
+④ Terraform : Infrastructure as Code
+⑤ Docker : Containerization Platform
+⑥ Kubernetes : Container Orchestration Tool
+⑦ UI and API Testing: Selenium, RestAssured
+➇ Version Control : Git, GitHub
 
 - 📫 How to reach me: dayanidhipraveen44@gmail.com (primary) or praveendhaya98@gmail.com(secondary)
 
